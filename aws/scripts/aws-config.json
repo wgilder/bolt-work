@@ -1,0 +1,92 @@
+[
+  {
+    "os": "centos-6",
+    "ami": "ami-713f0c9a",
+    "imagemin": "nano"
+  },
+  {
+    "os": "centos-7",
+    "ami": "ami-dd3c0f36",
+    "imagemin": "nano"
+  },
+  {
+    "os": "rhel-5",
+    "ami": "ami-a48cbfb9",
+    "imagemin": "nano"
+  },
+  {
+    "os": "rhel-6",
+    "ami": "ami-06e361057b216c8de",
+    "imagemin": "nano"
+  },
+  {
+    "os": "rhel-7",
+    "ami": "ami-0813c13822009a842",
+    "imagemin": "nano"
+  },
+  {
+    "os": "ubuntu-14",
+    "ami": "ami-034bea563d2753cad",
+    "imagemin": "nano"
+  },
+  {
+    "os": "ubuntu-16",
+    "ami": "ami-0e8db44667283d24b",
+    "imagemin": "nano"
+  },
+  {
+    "os": "ubuntu-18",
+    "ami": "ami-07b0dc14c4fdcf6c6",
+    "imagemin": "nano"
+  },
+  {
+    "os": "sles-11",
+    "ami": "ami-0f032693ef4319469",
+    "imagemin": "nano"
+  },
+  {
+    "os": "sles-12",
+    "ami": "ami-0fa9bde3f3d40e5ae",
+    "imagemin": "nano"
+  },
+  {
+    "os": "sles-15",
+    "ami": "ami-0dea2cd0c26873247",
+    "imagemin": "nano"
+  },
+  {
+    "os": "windows-2003",
+    "ami": "ami-04a02cfb41380f098",
+    "imagemin": "nano"
+  },
+  {
+    "os": "windows-2008",
+    "ami": "ami-07e93f1f72e921dd7",
+    "imagemin": "nano"
+  },
+  {
+    "os": "windows-2008r2",
+    "ami": "ami-0c7fe6bb729cdc9c1",
+    "imagemin": "nano"
+  },
+  {
+    "os": "windows-2012",
+    "ami": "ami-0a03bae26073516a7",
+    "imagemin": "nano"
+  },
+  {
+    "os": "windows-2012r2",
+    "ami": "ami-09f85c4c3e4a1ca3b",
+    "imagemin": "nano"
+  },
+  {
+    "os": "windows-2016",
+    "ami": "ami-077fbac22ac466c00",
+    "imagemin": "nano"
+  },
+  {
+    "os": "puppet-enterprise",
+    "ami": "ami-05a4fcee",
+    "imagemin": "xlarge"
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS 1703_01",
+        "id": "ami-11a2707e",
+        "date": "2017-04-12T00:27:20.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS 1704_01",
+        "id": "ami-2613cd49",
+        "date": "2017-05-09T23:43:37.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS 20150928_01",
+        "id": "ami-2a868b37",
+        "date": "2015-10-13T23:03:50.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS 1602",
+        "id": "ami-2bf11444",
+        "date": "2016-02-26T21:23:09.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS 1704_01",
+        "id": "ami-322af45d",
+        "date": "2017-05-10T18:52:42.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS 1801_01",
+        "id": "ami-347be65b",
+        "date": "2018-01-12T20:36:24.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS ENA 1804_2",
+        "id": "ami-36c1efdd",
+        "date": "2018-05-17T22:09:54.000Z"
+    },
+    {
+        "desc": "CentOS Linux 6 x86_64 HVM EBS ENA 1805_01",
+        "id": "ami-713f0c9a",
+        "date": "2018-06-13T15:56:21.000Z"
+    }
+]
